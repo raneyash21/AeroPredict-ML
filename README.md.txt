@@ -15,8 +15,6 @@ Using a **Random Forest Regressor** to handle the non-linear, noisy multi-sensor
 * **Mean Absolute Error (MAE):** 13.45 flight cycles
 * **Root Mean Squared Error (RMSE):** 18.61 flight cycles
 
-*(Insert your saved graph here eventually by using `![Results](assets/results_graph.png)`)*
-
 ## Project Structure
 ```text
 AeroPredict_ML_Project/
